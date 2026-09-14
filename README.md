@@ -1,2 +1,1 @@
-# zhuanxie
-转写
+MOSS-Transcribe-Diarize 转写工具
